@@ -35,5 +35,8 @@ package com.nt.abstraction;
 	void m3() {
 		System.out.println("abstract class Non-static method");
 	}
+	 public void m3(){
+		 System.out.println("hii From Repository");
+	 }
 	
 }
